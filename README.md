@@ -64,11 +64,11 @@ Answer:
 ... [answer with citations like – Sources: ['data/file-1.pdf:{page-id}:{chunk-index}', 'data/file-2.pdf:{page-id}:{chunk-index}']] ...
 ```
 
-- LLM's response ( WITHOUT RAG & context data ) :
+- #### LLM's response ( WITHOUT RAG & context data ) :
 <img width="795" height="596" alt="image" src="https://github.com/user-attachments/assets/fc1b3d51-7c1a-4a1f-a9a9-a1e596d66ab0" />
 
-- After implementing RAG , Query response retrieved from stored vector DB :
-<img width="1633" height="340" alt="image" src="https://github.com/user-attachments/assets/d37198d0-1402-4ff0-be1b-3ed0eba266b6" />
+- #### After implementing RAG , Query response retrieved from stored vector DB :
+<img width="1196" height="412" alt="image" src="https://github.com/user-attachments/assets/e8184a9d-bbb4-42e9-ac80-15f5d3836bd8" />
 
 
 
