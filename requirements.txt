@@ -1,0 +1,8 @@
+pypdf
+langchain
+pytest
+boto3
+chromadb # Vector storage
+langchain-chroma
+sentence-transformers
+langchain_ollama
